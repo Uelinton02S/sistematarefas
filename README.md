@@ -30,5 +30,8 @@ Projeto desenvolvido com Spring Boot para gerenciamento de tarefas.
 ## ▶️ Como executar o projeto
 
 ### 1. Clonar o repositório
-```bash
-git clone https://github.com/SEU_USUARIO/sistematarefas.git
+git clone https://github.com/Uelinton02S/sistematarefas.git
+
+### 2. Rodar o spring boot
+ Linux: ./mvnw spring-boot:run
+ Windowns: mvnw.cmd spring-boot:run
