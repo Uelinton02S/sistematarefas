@@ -35,3 +35,10 @@ git clone https://github.com/Uelinton02S/sistematarefas.git
 ### 2. Rodar o spring boot
  Linux: ./mvnw spring-boot:run
  Windowns: mvnw.cmd spring-boot:run
+
+### 2. Cole no navegador
+
+http://localhost:8080/login
+
+H2 Console:
+http://localhost:8080/h2-console
