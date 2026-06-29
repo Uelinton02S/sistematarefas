@@ -34,7 +34,7 @@ git clone https://github.com/Uelinton02S/sistematarefas.git
 
 ### 2. Rodar o spring boot
  Linux: ./mvnw spring-boot:run
- Windowns: mvnw.cmd spring-boot:run
+ Windowns: mvnw.cmd spring-boot:run ou .\mvnw.cmd spring-boot:run
 
 ### 2. Cole no navegador
 
