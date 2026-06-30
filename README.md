@@ -42,3 +42,8 @@ http://localhost:8080/login
 
 H2 Console:
 http://localhost:8080/h2-console
+
+inserir no powershell para o h2: Invoke-RestMethod -Uri "http://localhost:8080/api/usuarios" `
+  -Method POST `
+  -Headers @{ "Content-Type" = "application/json" } `
+  -Body '{"nome":"Seu Nome","email":"seu@email.com","senha":"123456"}'
